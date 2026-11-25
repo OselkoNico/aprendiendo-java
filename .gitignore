@@ -1,0 +1,10 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Maven (a partir de la semana 7)
+target/
+
+# macOS
+.DS_Store
